@@ -1,0 +1,25 @@
+# Matra
+https://arxiv.org/pdf/2208.10801   ()
+
+# Pushpak Bhattacharyya
+https://aclanthology.org/Q18-1022.pdf ()
+https://aclanthology.org/N15-3017.pdf 
+https://www.cse.iitb.ac.in/~pb/papers/TALIP-CompositionalTransliteration-CRC.pdf
+
+# Aksharantar
+https://aclanthology.org/2023.findings-emnlp.4.pdf ()
+
+# IndoNLP 2025 competition
+https://arxiv.org/pdf/2501.05816
+
+# bilstm/rnn with attention
+https://aclanthology.org/W15-3909.pdf
+
+# english to chineese
+https://aclanthology.org/2020.aacl-main.40/
+
+
+https://aclanthology.org/2020.lrec-1.294.pdf
+https://aclanthology.org/Y18-3003.pdf
+https://arxiv.org/pdf/2109.02903
+https://aclanthology.org/2021.eacl-main.303.pdf
